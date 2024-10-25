@@ -7,10 +7,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refres
 
-Claro, haré que la guía sea más narrativa, explicando cada paso como si fuera una historia del proceso, y agregaré las imágenes de nuevo. Aquí tienes una versión más detallada y personalizada:
-
----
-
 # **Instalación y Configuración de Neovim y Vite en Arch Linux**
 
 ### **Sistema Operativo y Entorno**
