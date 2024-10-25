@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 
 ### **Sistema Operativo y Entorno**
 
-Soy Jesús Uriel Santana Oliva, y me embarqué en la instalación y configuración de mi entorno de desarrollo en Arch Linux. Este sistema operativo, conocido por su flexibilidad y rapidez, me permite una personalización completa, algo que valoro como desarrollador y estudiante de ciberseguridad. Para mis proyectos actuales, opté por usar **Neovim (nvim)**, un editor de texto avanzado y altamente personalizable. Esta elección viene de mi experiencia previa con editores de texto y la versatilidad de Neovim, que me permite gestionar desde código hasta automatización.
+Me embarqué en la instalación y configuración de mi entorno de desarrollo en Arch Linux. Este sistema operativo, conocido por su flexibilidad y rapidez, me permite una personalización completa, algo que valoro como desarrollador y estudiante de ciberseguridad. Para mis proyectos actuales, opté por usar **Neovim (nvim)**, un editor de texto avanzado y altamente personalizable. Esta elección viene de mi experiencia previa con editores de texto y la versatilidad de Neovim, que me permite gestionar desde código hasta automatización.
 
 Mi configuración se encuentra en un repositorio personalizado de GitHub, donde conservo ajustes para varios lenguajes de programación y plugins que optimizan la experiencia de desarrollo. A continuación, te guío paso a paso en la configuración de este entorno, ideal para el desarrollo en **React** y **Vite**.
 
