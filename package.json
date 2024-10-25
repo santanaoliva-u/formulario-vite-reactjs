@@ -1,5 +1,6 @@
 {
   "name": "formularioweb",
+  "homepage": "https://github.com/santanaoliva-u/formulario-vite-reactjs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -7,9 +8,15 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "dependencies": {
+    "gh-pages": "^6.2.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
